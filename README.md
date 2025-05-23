@@ -1,12 +1,14 @@
 # Repo to post some problem solved by my self using Golang
-## Merge Sorted Array
+### Merge Sorted Array
 https://leetcode.com/problems/merge-sorted-array/description/
-## Remove Element
+### Remove Element
 https://leetcode.com/problems/remove-element/description/
-## Remove Duplicates from Sorted Array
+### Remove Duplicates from Sorted Array
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-## Remove Duplicates from Sorted Array II
+### Remove Duplicates from Sorted Array II
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
-## Majority Element
+### Majority Element
 https://leetcode.com/problems/majority-element/description/
+### Rotate Array
+https://leetcode.com/problems/rotate-array/description/
 
