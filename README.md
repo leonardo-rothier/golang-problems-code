@@ -7,3 +7,6 @@ https://leetcode.com/problems/remove-element/description/
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 ## Remove Duplicates from Sorted Array II
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
+## Majority Element
+https://leetcode.com/problems/majority-element/description/
+
