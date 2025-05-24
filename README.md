@@ -12,5 +12,6 @@ https://leetcode.com/problems/majority-element/description/
 ### Rotate Array
 https://leetcode.com/problems/rotate-array/description/
 ### Best Time to Buy and Sell Stock
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description
-
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+### Best Time to Buy and Sell Stock II
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
